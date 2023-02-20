@@ -2,6 +2,10 @@
 # This script takes to arguments
 # namely: arg1 - principal
 #         arf2 - interest
+##################################################
+# Additional Authors: Michael Fayemi AB Olaluwe  #
+##################################################
+
 # MAX_ARS is the maximum number arguments
 MAX_ARGs=4
 
